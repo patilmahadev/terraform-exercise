@@ -227,9 +227,7 @@
           "service httpd start"
         ]]}}
       }
-
     }
-
   },
 
   "Outputs": {
